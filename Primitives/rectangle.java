@@ -11,7 +11,7 @@ public class rectangle extends JPanel {
 
         g.setColor(Color.BLUE);
 
-        g.fillRect(50, 50, 200, 100); // x = 50, y = 50, width = 200, height = 100
+        g.fillRect(50, 50, 200, 100);
     }
 
     public static void main(String[] args) {

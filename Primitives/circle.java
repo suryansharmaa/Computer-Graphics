@@ -12,7 +12,7 @@ public class circle extends JPanel {
         // Set the color to red
         g.setColor(Color.RED);
 
-        g.fillOval(100, 100, 150, 150); // x = 100, y = 100, width = 150, height = 150
+        g.fillOval(100, 100, 150, 150);
     }
 
     public static void main(String[] args) {
